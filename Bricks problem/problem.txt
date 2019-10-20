@@ -1,0 +1,2 @@
+Problem:
+ There are two boys "Ram" and "Akm" and their are total "n" number of bricks.Ram pic a brick initally and  Akm pics twice of Ram.Ram increases number of bricks by one after one complete round.Find out  who picup the last brick.
